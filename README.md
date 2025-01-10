@@ -12,7 +12,7 @@
     - Designing: Canva <br>
     - Other tools: Git</p>
 <p align="left">- 📫 You can reach me on- <br>
-    -  LinkedIn <br>
+    -  LinkedIn as https://www.linkedin.com/in/aditigupta1706 <br>
     -  Gmail as id.aditigupta@gmail.com</p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aditi1706&label=Profile%20views&color=0e75b6&style=flat" alt="aditi1706" /> </p>
