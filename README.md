@@ -1,11 +1,3 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Document</title>
-</head>
-<body>
     [![MasterHead](https://user-images.githubusercontent.com/35267447/206916906-9bfb66d9-c419-44c2-908a-4885e610425f.gif)](https://rishavchanda.io)
     <h1 align="center">Hi 👋, I'm Aditi gupta</h1>
 <!-- <h3 align="center">A passionate frontend developer from India</h3> -->
@@ -40,7 +32,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aditi1706&show_icons=true&locale=en" alt="aditi1706" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aditi1706&" alt="aditi1706" /></p>
-
-    
-</body>
-</html>
