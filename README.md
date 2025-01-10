@@ -3,17 +3,17 @@
 <!-- <h3 align="center">A passionate frontend developer from India</h3> -->
 <img align="right" width="400px" src="https://img.freepik.com/free-vector/hand-drawn-web-developers_23-2148819604.jpg" alt="" srcset="">
 
-<!-- <p align="left">- 🔭 Hi, I'm Harsh Jyoriya, a passionate and driven professional with expertise in Java programming, website building, and frontend development. With a strong foundation in engineering, I bring problem-solving and technical skills to every project I work on. My experience includes working with Microsoft Project to manage tasks efficiently, while also leveraging Adobe Photoshop and video editing tools to create visually engaging content. I am always eager to learn new technologies and push my boundaries to deliver high-quality solutions that make a difference. Let's connect!
+<p align="left">- 🔭 Hi, I'm Aditi Gupta, a passionate and driven professional with expertise in Web designing, website building. With a strong foundation in engineering, I bring problem-solving and technical skills to every project I work on. My experience includes working with Microsoft Project to manage tasks efficiently, while also leveraging Adobe Photoshop and video editing tools to create visually engaging content. I am always eager to learn new technologies and push my boundaries to deliver high-quality solutions that make a difference. Let's connect!
 </p>
 <p align="left">- 🌱 Currently my knowledge in Frontend Development and i now i am looking forward to Backend. </p>
 <p align="left">- 🛠️ Tech stacks---<br>
-    - Programming languages: JavaScript | JAVA | C<br>
+    - Programming languages: JavaScript | C<br>
     - Frontend: React | HTML | CSS<br>
-    - Designing: Canva | Figma<br>
+    - Designing: Canva <br>
     - Other tools: Git</p>
 <p align="left">- 📫 You can reach me on- <br>
-    -  LinkedIn as https://www.linkedin.com/in/harsh-jyoriya-1bb657308<br>
-    -  Gmail as harshjyoriya639@gmail.com</p> -->
+    -  LinkedIn <br>
+    -  Gmail as id.aditigupta@gmail.com</p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aditi1706&label=Profile%20views&color=0e75b6&style=flat" alt="aditi1706" /> </p>
 
