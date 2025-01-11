@@ -1,7 +1,7 @@
 [![MasterHead](https://user-images.githubusercontent.com/35267447/206916906-9bfb66d9-c419-44c2-908a-4885e610425f.gif)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Aditi gupta</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
-<img align="right" width="400px" src="https://raw.githubusercontent.com/aditi1706/aditi1706/0280ab0b2c0140b4bca3d4446225e34cc1d8e25e/gif.gif" alt="" srcset="">
+<img align="right" width="400px" src="https://i.pinimg.com/originals/75/8f/1c/758f1cd8cede9c3e4711306fc030f4ce.gif" alt="" srcset="">
 
 <p align="left">- 🔭 Hi, I'm Aditi Gupta, a passionate and driven professional with expertise in Web designing, website building. With a strong foundation in engineering, I bring problem-solving and technical skills to every project I work on. My experience includes working with Microsoft Project to manage tasks efficiently, while also leveraging Adobe Photoshop and video editing tools to create visually engaging content. I am always eager to learn new technologies and push my boundaries to deliver high-quality solutions that make a difference. Let's connect!
 </p>
