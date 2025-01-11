@@ -1,4 +1,4 @@
-[![MasterHead](https://user-images.githubusercontent.com/35267447/206916906-9bfb66d9-c419-44c2-908a-4885e610425f.gif)](https://rishavchanda.io)
+[![logo](https://user-images.githubusercontent.com/35267447/206916906-9bfb66d9-c419-44c2-908a-4885e610425f.gif)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Aditi gupta</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 <img align="right" width="400px" src="https://i.pinimg.com/originals/75/8f/1c/758f1cd8cede9c3e4711306fc030f4ce.gif" alt="" srcset="">
