@@ -1,4 +1,4 @@
-[![logo](https://github.com/aditi1706/aditi1706/blob/main/banner.png)
+![logo](https://github.com/aditi1706/aditi1706/blob/main/banner.png)
 <h1 align="center">Hi 👋, I'm Aditi gupta</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 <img align="right" width="400px" src="https://i.pinimg.com/originals/75/8f/1c/758f1cd8cede9c3e4711306fc030f4ce.gif" alt="" srcset="">
