@@ -35,8 +35,10 @@
   ![snake gif](https://github.com/aditi1706/aditi1706/blob/output/github-snake.svg)
 </div>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=aditi1706&show_icons=true&locale=en&layout=compact" alt="aditi1706" /></p>
+
+<p><img align="left" src= "https://github-readme-stats.vercel.app/api/top-langs/?username=aditi1706&langs_count=8&count_private=false&layout=compact&theme=react&hide_border=true&bg_color=0D1117" alt="aditi1706" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aditi1706&show_icons=true&locale=en" alt="aditi1706" /></p>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aditi1706&" alt="aditi1706" /></p>
 
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aditi1706&" alt="aditi1706" /></p>
